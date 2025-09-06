@@ -1,4 +1,5 @@
-(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhwbTRpemU3dnBoc3VidWo4ajdnZGZjdnFsYnJ0M2FhcjMxM3p1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GazCZqvW67VPN5SEd/giphy.gif)
+()
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhwbTRpemU3dnBoc3VidWo4ajdnZGZjdnFsYnJ0M2FhcjMxM3p1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GazCZqvW67VPN5SEd/giphy.gif" width="300" alt=" animé"/>
 #  Yasmine Harfouche - Full Stack Developer
 
 <div align="center">
