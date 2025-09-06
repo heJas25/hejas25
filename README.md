@@ -1,5 +1,5 @@
+#   Yasmine Harfouche - Full Stack Developer
 <p align="center">
-  # Yasmine Harfouche - Full Stack Developer
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhnd20wMjI4b3NpdXphbGd0MGRvOXA3MjA2OHd1dmkxMmdsNGN0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" width="700" height="full"  alt=" animé"/>
 </p>
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🔭 I'm currently working on **[Your Current Project]**
 - 🌱 I'm currently learning **[Technology you're learning]**
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠 Languages and Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,typescript,python,java,react,nodejs,html,css,git,github,vscode,docker,mongodb,mysql,aws,firebase&perline=8" />
@@ -51,14 +51,13 @@
 </div>
 
 
-
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180em"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180em"/> -->
 </div>
 
 <div align="center">
@@ -75,10 +74,10 @@
 
 ---
 
-## 📈 Activity Graph
+##  Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hejas25&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -107,7 +106,7 @@
 
 ---
 
-## 🌐 Connect with me
+##  Connect with me
 
 <div align="center">
   <a href="https://linkedin.com/in/Yasmine Harfouche" target="_blank">
