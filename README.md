@@ -1,4 +1,5 @@
-# 💫 Yasmine Harfouche - Full Stack Developer
+(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhwbTRpemU3dnBoc3VidWo4ajdnZGZjdnFsYnJ0M2FhcjMxM3p1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GazCZqvW67VPN5SEd/giphy.gif)
+#  Yasmine Harfouche - Full Stack Developer
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Love+to+code+and+create!" alt="Typing SVG" />
