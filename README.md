@@ -24,45 +24,43 @@
 ---
 
 
-##  Social Media
+##  Contact me
 
 
-<p>
-  <a href="https://linkedin.com/in/Yasmine Harfouche" target="_blank">
-    <strong style="color: #00d4ff;">Yasmine Harfouche</strong> <img src="https://img.icons8.com/fluent/30/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/hejas25" target="_blank">
-    <strong style="color: #00d4ff;">hejas25</strong> <img src="https://img.icons8.com/fluent/30/000000/github.png" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="yasmineharfouche0@gmail.com" target="_blank">
-    <strong style="color: #00d4ff;">yasmineharfouche0@gmail.com</strong> <img src="https://img.icons8.com/fluent/30/000000/gmail.png" alt="Email"/>
-  </a>
-</p>
-<p>
 
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/2yas_mine5" target="_blank">
-    <strong style="color: #00d4ff;">2yas_mine5</strong> <img src="https://img.icons8.com/fluent/30/000000/instagram-new.png" alt="Instagram"/>
+<p align="center">
+  <a href="https://linkedin.com/in/Yasmine Harfouche">
+    <img src="https://img.shields.io/badge/LinkedIn-Yasmine_Harfouche-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://harfoucheyasmine.netlify.app/" target="_blank">
-    <strong style="color: #00d4ff;">Portfolio</strong> <img src="https://img.icons8.com/fluent/30/000000/domain.png" alt="Portfolio"/>
+  <a href="https://github.com/hejas25">
+    <img src="https://img.shields.io/badge/GitHub-hejas25-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:yasmineharfouche0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yasmineharfouche0@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <br/>
+  <a href="https://instagram.com/2yas_mine5">
+    <img src="https://img.shields.io/badge/Instagram-2yas_mine5-pink?style=for-the-badge&logo=instagram" alt="Instagram"/>
+  </a>
+  <a href="https://harfoucheyasmine.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Harfouche_Yasmine-green?style=for-the-badge&logo=react" alt="Portfolio"/>
   </a>
 </p>
 
 </div>
+
 
 ---
 
 
 
-## 🛠 Languages and Tools
+##  Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,typescript,python,java,react,nodejs,html,css,git,github,vscode,docker,mongodb,mysql,aws,firebase&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,python,java,react,nodejs,html,css,git,github,vscode,docker,mongodb,postgrSQL&perline=8" />
 </div>
+
+
 
 ### 🎨 Frontend Development
 <div align="center">
@@ -72,6 +70,10 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/Figma-1572B6?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" height="400" alt="Coding Animation"/>
 </div>
 
 ### ⚙️ Backend Development
@@ -84,9 +86,7 @@
 </div>
 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" height="400" alt="Coding Animation"/>
-</div>
+---
 
 
 ##  GitHub Stats
@@ -205,10 +205,6 @@ JSON         0 hrs 30 mins   ░░░░░░░░░░░░░░░░░
   <h3>💖 Thanks for visiting my profile!</h3>
   <p> From <a href="https://github.com/hejas25">Yasmine Harfouche</a></p>
   
-  <!-- Snake Animation -->
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 ## 📄 My Resume
