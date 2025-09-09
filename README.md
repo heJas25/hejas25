@@ -1,13 +1,9 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=00D4FF&background=00000000&center=true&vCenter=true&width=500&height=60&lines=Yasmine+Harfouche;Full+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=00FFFF&background=00000000&center=true&vCenter=true&width=500&height=60&lines=Yasmine+Harfouche;Full+Stack+Developer" alt="Typing SVG" />
   </h1>
   
-  <p>
-    <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=code&logoColor=white&color=00d4ff" />
-    <img src="https://img.shields.io/badge/Create-blue?style=for-the-badge&logo=create&logoColor=white&color=0099cc" />
-    <img src="https://img.shields.io/badge/Innovate-blue?style=for-the-badge&logo=innovate&logoColor=white&color=0066ff" />
-  </p>
+
 </div>
 
 <div align="center">
