@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJvdXV5bW8xbXBmMTN4ODFwcGlyY3B3eGNmcjhqOGZpc2w2ZWNxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" hight="full" width =" full"
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJvdXV5bW8xbXBmMTN4ODFwcGlyY3B3eGNmcjhqOGZpc2w2ZWNxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" hight="full" width ="full"/>    
 </div>
 
 <div align="center">
@@ -15,14 +15,55 @@
 
 ---
 
-##  About Me
+## About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;Always+Learning+New+Technologies;Building+Amazing+Web+Experiences" />
+</div>
 
 - 🔭 I'm currently working on **[Your Current Project]**
 - 🌱 I'm currently learning **[Technology you're learning]**
+- 💬 Expertise : JavaScript, React, Node.js, Python, bases de données
 - 💬 Ask me about **Web Development, Programming, or anything tech-related**
 - 📫 How to reach me: **yasmineharfouche0@gmail.com**
 - ⚡ Fun fact: **[Something interesting about you]**
 
+---
+
+##  Social Media
+<div align="center">
+
+<p>
+  <a href="https://linkedin.com/in/yasmine-harfouche" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00d4ff" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/hejas25" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0066ff" alt="GitHub"/>
+  </a>
+  <a href="mailto:yasmineharfouche0@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00d4ff" alt="Email"/>
+  </a>
+</p>
+<p>
+  
+  <a href="https://instagram.com/2yas_mine5" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=00d4ff" alt="Instagram"/>
+  </a>
+  <a href="https://harfoucheyasmine.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white&color=0066ff" alt="Portfolio"/>
+  </a>
+</p>
+<p>
+  <a href="https://dev.to/yasmine_harfouche" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&color=00d4ff" alt="Dev.to"/>
+  </a>
+  <a href="https://medium.com/@yasmine.harfouche" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=0099cc" alt="Medium"/>
+  </a>
+  <a href="https://codepen.io/yasmine-harfouche" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&color=0066ff" alt="CodePen"/>
+  </a>
+</p>
+</div>
 ---
 
 ## 🛠 Languages and Tools
@@ -51,7 +92,10 @@
 </div>
 
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" height="400" alt="Coding Animation"/>
+</div>
+
 
 ##  GitHub Stats
 
