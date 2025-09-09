@@ -30,8 +30,6 @@
 
 <div align="center">
 
-## 🌐 Socials
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yasmine%20Harfouche)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/hejas25)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:yasmineharfouche0@gmail.com)
@@ -41,7 +39,10 @@
 </div>
 
 
+
 ---
+
+
 
 
 
