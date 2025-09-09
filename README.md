@@ -28,24 +28,15 @@
 
 
 
-<p align="center">
-  <a href="https://linkedin.com/in/Yasmine Harfouche">
-    <img src="https://img.shields.io/badge/LinkedIn-Yasmine_Harfouche-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/hejas25">
-    <img src="https://img.shields.io/badge/GitHub-hejas25-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="mailto:yasmineharfouche0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yasmineharfouche0@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  <br/>
-  <a href="https://instagram.com/2yas_mine5">
-    <img src="https://img.shields.io/badge/Instagram-2yas_mine5-pink?style=for-the-badge&logo=instagram" alt="Instagram"/>
-  </a>
-  <a href="https://harfoucheyasmine.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Harfouche_Yasmine-green?style=for-the-badge&logo=react" alt="Portfolio"/>
-  </a>
-</p>
+<div align="center">
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yasmine%20Harfouche)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/hejas25)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:yasmineharfouche0@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/2yas_mine5)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=react&logoColor=white)](https://harfoucheyasmine.netlify.app/)
 
 </div>
 
