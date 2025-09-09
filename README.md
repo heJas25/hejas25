@@ -12,65 +12,50 @@
 ---
 
 ## About Me
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;Always+Learning+New+Technologies;Building+Amazing+Web+Experiences" />
-</div>
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technology you're learning]**
+
+- 🔭 I'm currently working on 
+- 🌱 I'm currently learning Djongo
 - 💬 Expertise : JavaScript, React, Node.js, Python, bases de données
 - 💬 Ask me about **Web Development, Programming, or anything tech-related**
 - 📫 How to reach me: **yasmineharfouche0@gmail.com**
-- ⚡ Fun fact: **[Something interesting about you]**
+- ⚡ Fun fact: 
 
 ---
 
+
 ##  Social Media
-<div align="center">
+
 
 <p>
-  <a href="https://linkedin.com/in/yasmine-harfouche" target="_blank">
-    <strong style="color: #00d4ff;">LinkedIn</strong> <img src="https://img.icons8.com/fluent/30/000000/linkedin.png" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/Yasmine Harfouche" target="_blank">
+    <strong style="color: #00d4ff;">Yasmine Harfouche</strong> <img src="https://img.icons8.com/fluent/30/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/yasmine-harfouche" target="_blank">
-    <strong style="color: #00d4ff;">GitHub</strong> <img src="https://img.icons8.com/fluent/30/000000/github.png" alt="GitHub"/>
+  <a href="https://github.com/hejas25" target="_blank">
+    <strong style="color: #00d4ff;">hejas25</strong> <img src="https://img.icons8.com/fluent/30/000000/github.png" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:yasmine.harfouche@email.com" target="_blank">
-    <strong style="color: #00d4ff;">Email</strong> <img src="https://img.icons8.com/fluent/30/000000/gmail.png" alt="Email"/>
+  <a href="yasmineharfouche0@gmail.com" target="_blank">
+    <strong style="color: #00d4ff;">yasmineharfouche0@gmail.com</strong> <img src="https://img.icons8.com/fluent/30/000000/gmail.png" alt="Email"/>
   </a>
 </p>
 <p>
-  <a href="https://twitter.com/yasmine_harfouche" target="_blank">
-    <strong style="color: #00d4ff;">Twitter</strong> <img src="https://img.icons8.com/fluent/30/000000/twitter.png" alt="Twitter"/>
+
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/2yas_mine5" target="_blank">
+    <strong style="color: #00d4ff;">2yas_mine5</strong> <img src="https://img.icons8.com/fluent/30/000000/instagram-new.png" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/yasmine.harfouche" target="_blank">
-    <strong style="color: #00d4ff;">Instagram</strong> <img src="https://img.icons8.com/fluent/30/000000/instagram-new.png" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://portfolio.yasmine-harfouche.com" target="_blank">
+  <a href="https://harfoucheyasmine.netlify.app/" target="_blank">
     <strong style="color: #00d4ff;">Portfolio</strong> <img src="https://img.icons8.com/fluent/30/000000/domain.png" alt="Portfolio"/>
   </a>
 </p>
-<p>
-  <a href="https://dev.to/yasmine_harfouche" target="_blank">
-    <strong style="color: #00d4ff;">Dev.to</strong> <img src="https://img.icons8.com/windows/30/000000/dev.png" alt="Dev.to"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@yasmine.harfouche" target="_blank">
-    <strong style="color: #00d4ff;">Medium</strong> <img src="https://img.icons8.com/fluent/30/000000/medium-monogram.png" alt="Medium"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://codepen.io/yasmine-harfouche" target="_blank">
-    <strong style="color: #00d4ff;">CodePen</strong> <img src="https://img.icons8.com/ios-filled/30/000000/codepen.png" alt="CodePen"/>
-  </a>
-</p>
-</div>
 
 </div>
+
 ---
+
 
 
 ## 🛠 Languages and Tools
@@ -111,11 +96,9 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180em"/> -->
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"/>
-</div>
 
 ---
+
 
 ## 🏆 GitHub Trophies
 
@@ -125,6 +108,8 @@
 
 ---
 
+
+
 ##  Activity Graph
 
 <div align="center">
@@ -133,49 +118,7 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true)](https://github.com/yourusername/project1)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true)](https://github.com/yourusername/project2)
-  
-</div>
-
----
-
-## 💼 Featured Repositories
-
-<div align="center">
-  <a href="https://github.com/hejas25/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true" />
-  </a>
-</div>
-
----
-
-##  Connect with me
-
-<div align="center">
-  <a href="https://linkedin.com/in/Yasmine Harfouche" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:yasmineharfouche0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://harfoucheyasmine.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
-
----
-
-
-## 🎯 Current Focus
+##  Current Focus
 
 ```javascript
 const yasmine = {
@@ -195,7 +138,7 @@ const yasmine = {
         misc: ["Docker", "Git", "Linux"]
     },
     currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    funFact: "I debug with console.log() and I'm not ashamed! "
 };
 ```
 
