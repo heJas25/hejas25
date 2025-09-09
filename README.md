@@ -1,5 +1,33 @@
-#   Yasmine Harfouche - Full Stack Developer
-<p align="center">
+<div align="center">
+  <h1 style="
+    font-family: 'Courier New', monospace;
+    font-size: 3em;
+    font-weight: bold;
+    background: linear-gradient(45deg, #00d4ff, #0099cc, #0066ff);
+    background-size: 400% 400%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-shadow: 
+      0 0 10px #00d4ff,
+      0 0 20px #00d4ff,
+      0 0 40px #00d4ff,
+      0 0 80px #00d4ff;
+    animation: glow 2s ease-in-out infinite alternate;
+    margin-bottom: 10px;
+  ">
+    ✨ Yasmine Harfouche ✨
+  </h1>
+  <h2 style="
+    font-family: 'Arial', sans-serif;
+    color: #00d4ff;
+    font-size: 1.5em;
+    text-shadow: 0 0 20px #00d4ff;
+    margin-top: 0;
+  ">
+    🚀 Full Stack Developer 🚀
+  </h2>
+</div>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhnd20wMjI4b3NpdXphbGd0MGRvOXA3MjA2OHd1dmkxMmdsNGN0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" width="700" height="full"  alt=" animé"/>
 </p>
 
@@ -18,7 +46,6 @@
 
 - 🔭 I'm currently working on **[Your Current Project]**
 - 🌱 I'm currently learning **[Technology you're learning]**
-- 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, Programming, or anything tech-related**
 - 📫 How to reach me: **yasmineharfouche0@gmail.com**
 - ⚡ Fun fact: **[Something interesting about you]**
