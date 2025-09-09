@@ -1,36 +1,14 @@
 <div align="center">
-  <h1 style="
-    font-family: 'Courier New', monospace;
-    font-size: 3em;
-    font-weight: bold;
-    background: linear-gradient(45deg, #00d4ff, #0099cc, #0066ff);
-    background-size: 400% 400%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    text-shadow: 
-      0 0 10px #00d4ff,
-      0 0 20px #00d4ff,
-      0 0 40px #00d4ff,
-      0 0 80px #00d4ff;
-    animation: glow 2s ease-in-out infinite alternate;
-    margin-bottom: 10px;
-  ">
-    ✨ Yasmine Harfouche ✨
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=00D4FF&background=00000000&center=true&vCenter=true&width=500&height=60&lines=Yasmine+Harfouche;Full+Stack+Developer" alt="Typing SVG" />
   </h1>
-  <h2 style="
-    font-family: 'Arial', sans-serif;
-    color: #00d4ff;
-    font-size: 1.5em;
-    text-shadow: 0 0 20px #00d4ff;
-    margin-top: 0;
-  ">
-    🚀 Full Stack Developer 🚀
-  </h2>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=code&logoColor=white&color=00d4ff" />
+    <img src="https://img.shields.io/badge/Create-blue?style=for-the-badge&logo=create&logoColor=white&color=0099cc" />
+    <img src="https://img.shields.io/badge/Innovate-blue?style=for-the-badge&logo=innovate&logoColor=white&color=0066ff" />
+  </p>
 </div>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhnd20wMjI4b3NpdXphbGd0MGRvOXA3MjA2OHd1dmkxMmdsNGN0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" width="700" height="full"  alt=" animé"/>
-</p>
-
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Love+to+code+and+create!" alt="Typing SVG" />
