@@ -5,16 +5,13 @@
 </div>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJvdXV5bW8xbXBmMTN4ODFwcGlyY3B3eGNmcjhqOGZpc2w2ZWNxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif"
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJvdXV5bW8xbXBmMTN4ODFwcGlyY3B3eGNmcjhqOGZpc2w2ZWNxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" hight="full" width =" full"
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Love+to+code+and+create!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" height="400" alt="Coding Animation"/>
-</div>
 
 ---
 
