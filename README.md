@@ -1,15 +1,11 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=0017f9&background=00000000&center=true&vCenter=true&width=500&height=60&lines=Yasmine+Harfouche;Full+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=0095ff&background=00000000&center=true&vCenter=true&width=500&height=60&lines=Yasmine+Harfouche;Full+Stack+Developer" alt="Typing SVG" />
   </h1>
 </div>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJvdXV5bW8xbXBmMTN4ODFwcGlyY3B3eGNmcjhqOGZpc2w2ZWNxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" hight="full" width ="full"/>    
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Love+to+code+and+create!" alt="Typing SVG" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJvdXV5bW8xbXBmMTN4ODFwcGlyY3B3eGNmcjhqOGZpc2w2ZWNxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" hight="full" width ="600"/>    
 </div>
 
 
@@ -34,37 +30,48 @@
 
 <p>
   <a href="https://linkedin.com/in/yasmine-harfouche" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00d4ff" alt="LinkedIn"/>
+    <strong style="color: #00d4ff;">LinkedIn</strong> <img src="https://img.icons8.com/fluent/30/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/hejas25" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0066ff" alt="GitHub"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/yasmine-harfouche" target="_blank">
+    <strong style="color: #00d4ff;">GitHub</strong> <img src="https://img.icons8.com/fluent/30/000000/github.png" alt="GitHub"/>
   </a>
-  <a href="mailto:yasmineharfouche0@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00d4ff" alt="Email"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:yasmine.harfouche@email.com" target="_blank">
+    <strong style="color: #00d4ff;">Email</strong> <img src="https://img.icons8.com/fluent/30/000000/gmail.png" alt="Email"/>
   </a>
 </p>
 <p>
-  
-  <a href="https://instagram.com/2yas_mine5" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=00d4ff" alt="Instagram"/>
+  <a href="https://twitter.com/yasmine_harfouche" target="_blank">
+    <strong style="color: #00d4ff;">Twitter</strong> <img src="https://img.icons8.com/fluent/30/000000/twitter.png" alt="Twitter"/>
   </a>
-  <a href="https://harfoucheyasmine.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white&color=0066ff" alt="Portfolio"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/yasmine.harfouche" target="_blank">
+    <strong style="color: #00d4ff;">Instagram</strong> <img src="https://img.icons8.com/fluent/30/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://portfolio.yasmine-harfouche.com" target="_blank">
+    <strong style="color: #00d4ff;">Portfolio</strong> <img src="https://img.icons8.com/fluent/30/000000/domain.png" alt="Portfolio"/>
   </a>
 </p>
 <p>
   <a href="https://dev.to/yasmine_harfouche" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&color=00d4ff" alt="Dev.to"/>
+    <strong style="color: #00d4ff;">Dev.to</strong> <img src="https://img.icons8.com/windows/30/000000/dev.png" alt="Dev.to"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@yasmine.harfouche" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=0099cc" alt="Medium"/>
+    <strong style="color: #00d4ff;">Medium</strong> <img src="https://img.icons8.com/fluent/30/000000/medium-monogram.png" alt="Medium"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://codepen.io/yasmine-harfouche" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&color=0066ff" alt="CodePen"/>
+    <strong style="color: #00d4ff;">CodePen</strong> <img src="https://img.icons8.com/ios-filled/30/000000/codepen.png" alt="CodePen"/>
   </a>
 </p>
 </div>
+
+</div>
 ---
+
 
 ## 🛠 Languages and Tools
 
@@ -75,10 +82,10 @@
 ### 🎨 Frontend Development
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Next.js-4FC08D?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-DD0031?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Figma-1572B6?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </div>
 
@@ -100,7 +107,7 @@
 ##  GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hejas25&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180em"/>
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180em"/> -->
 </div>
 
