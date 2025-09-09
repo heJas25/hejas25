@@ -1,9 +1,11 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=00FFFF&background=00000000&center=true&vCenter=true&width=500&height=60&lines=Yasmine+Harfouche;Full+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=0017f9&background=00000000&center=true&vCenter=true&width=500&height=60&lines=Yasmine+Harfouche;Full+Stack+Developer" alt="Typing SVG" />
   </h1>
-  
+</div>
 
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJvdXV5bW8xbXBmMTN4ODFwcGlyY3B3eGNmcjhqOGZpc2w2ZWNxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif"
 </div>
 
 <div align="center">
